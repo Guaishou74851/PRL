@@ -4,7 +4,7 @@
 
 [Bin Chen](https://scholar.google.com/citations?hl=en&user=aZDNm98AAAAJ), [Jiechong Song](https://scholar.google.com/citations?user=EBOtupAAAAAJ), [Jingfen Xie](https://scholar.google.com/citations?user=FKYnbiMAAAAJ), and [Jian Zhang](https://jianzhang.tech/)
 
-*School of Electronic and Computer Engineering, Peking University Shenzhen Graduate School, Shenzhen, China*
+*School of Electronic and Computer Engineering, Peking University Shenzhen Graduate School, Shenzhen, China.*
 
 Accepted for publication in International Journal of Computer Vision (IJCV).
 
@@ -55,7 +55,7 @@ python train.py --cs_ratio=0.5
 
 The log and model files will be in `./log` and `./model`, respectively.
 
-Note: The `num_feature` and `ID_num_feature` arguments should keep same (e.g., 8 or 16) by default.
+Note: The `num_feature` and `ID_num_feature` arguments should keep same (e.g. 8 or 16) by default.
 
 ## Citation
 
