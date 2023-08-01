@@ -16,7 +16,7 @@ By absorbing the merits of both the model- and data-driven methods, deep physics
 
 Our poster of this work ([high-resolution PDF version](https://drive.google.com/file/d/1FhE6DhD4-yP04GZUc59uys79jT_OVcxx/view?usp=drive_link)):
 
-![poster](figs/poster.png)
+![poster](figs/PRL-poster.png)
 
 ## Environment
 
