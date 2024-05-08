@@ -43,7 +43,7 @@ The test sets are in `./data`.
 
 ## Train
 
-Download the dataset of [Waterloo Exploration Database](https://ece.uwaterloo.ca/~k29ma/exploration/) and put the `pristine_images` directory (containing 4744 `.bmp` image files) into `./data`, then run:
+Download the dataset of [Waterloo Exploration Database](https://kedema.org/project/exploration/index.html) and put the `pristine_images` directory (containing 4744 `.bmp` image files) into `./data`, then run:
 
 ```
 python train.py --cs_ratio=0.1
