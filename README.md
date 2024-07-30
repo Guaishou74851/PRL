@@ -63,10 +63,12 @@ If you find the code helpful in your research or work, please cite the following
 
 ```
 @article{chen2023deep,
-  title={Deep Physics-Guided Unrolling Generalization for Compressed Sensing},
+  title={Deep physics-guided unrolling generalization for compressed sensing},
   author={Chen, Bin and Song, Jiechong and Xie, Jingfen and Zhang, Jian},
   journal={International Journal of Computer Vision},
-  pages={1--24},
+  volume={131},
+  number={11},
+  pages={2864--2887},
   year={2023},
   publisher={Springer}
 }
