@@ -21,9 +21,9 @@ Our poster of this work ([high-resolution PDF version](https://drive.google.com/
 ## Environment
 
 ```shell
-torch.__version__ == '1.11.0+cu113'
-numpy.__version__ == '1.22.4'
-skimage.__version__ == '0.19.2'
+torch.__version__ == "1.11.0+cu113"
+numpy.__version__ == "1.22.4"
+skimage.__version__ == "0.19.2"
 ```
 
 ## Test
@@ -32,11 +32,7 @@ Download the packaged file of model checkpoints [model.zip](https://drive.google
 
 ```shell
 unzip model
-python test.py --testset_name=Set11 --cs_ratio=0.1
-python test.py --testset_name=Set11 --cs_ratio=0.2
-python test.py --testset_name=Set11 --cs_ratio=0.3
-python test.py --testset_name=Set11 --cs_ratio=0.4
-python test.py --testset_name=Set11 --cs_ratio=0.5
+python test.py --testset_name=Set11 --cs_ratio=0.1/0.2/0.3/0.4/0.5
 ```
 
 The test sets are in `./data`.
@@ -46,11 +42,7 @@ The test sets are in `./data`.
 Download the dataset of [Waterloo Exploration Database](https://kedema.org/project/exploration/index.html) and put the `pristine_images` directory (containing 4744 `.bmp` image files) into `./data`, then run:
 
 ```
-python train.py --cs_ratio=0.1
-python train.py --cs_ratio=0.2
-python train.py --cs_ratio=0.3
-python train.py --cs_ratio=0.4
-python train.py --cs_ratio=0.5
+python train.py --cs_ratio=0.1/0.2/0.3/0.4/0.5
 ```
 
 The log and model files will be in `./log` and `./model`, respectively.
