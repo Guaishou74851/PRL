@@ -2,9 +2,11 @@
 
 [![Springer](https://img.shields.io/badge/Springer-Paper-<COLOR>.svg)](https://link.springer.com/article/10.1007/s11263-023-01814-w) [![ArXiv](https://img.shields.io/badge/ArXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2307.08950) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Guaishou74851.PRL)
 
-[Bin Chen](https://scholar.google.com/citations?hl=en&user=aZDNm98AAAAJ), [Jiechong Song](https://scholar.google.com/citations?user=EBOtupAAAAAJ), [Jingfen Xie](https://scholar.google.com/citations?user=FKYnbiMAAAAJ), and [Jian Zhang](https://jianzhang.tech/)
+[Bin Chen](https://scholar.google.com/citations?hl=en&user=aZDNm98AAAAJ), [Jiechong Song](https://scholar.google.com/citations?user=EBOtupAAAAAJ), [Jingfen Xie](https://scholar.google.com/citations?user=FKYnbiMAAAAJ), and [Jian Zhang](https://jianzhang.tech/)†
 
 *School of Electronic and Computer Engineering, Peking University Shenzhen Graduate School, Shenzhen, China.*
+
+† Corresponding author
 
 Accepted for publication in International Journal of Computer Vision (IJCV).
 
